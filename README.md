@@ -1,6 +1,6 @@
 # 바닐라 JS 크롬 앱
 
-[<img src='./img/바닐라JS.png' alt='사이트바로가기'>](https://hyemin12.github.io/vanillaJS-chrome-app/)
+[<img src='./img/바닐라JS.png' alt='사이트바로가기'>](https://hyemin-pb.github.io/javascript-moment)
 
 이미지를 클릭하면 사이트로 넘어갑니다.
 
